@@ -17,4 +17,6 @@ Eduardo Gabriel Arévalo Aguilar - A01793897 </br>
 
 - Semana 1: [1.4 Infografía de las nuevas tecnologías](/Semana_1/Infografia_nuevas_tecnologías_Equipo22.pdf)
 - Semana 2: [2.3 Fase 1. Historias de usuarios (SCRUM)](/Semana_2/Historias_de_usuario_Equipo_22.pdf)
-- Semana 3: [3.2 Fase 2. Diccionario de datos y esquemas de bases de datos](/Semana_3)
+- Semana 3:
+    - [4.2 Infografía del ecosistema Hadoop](/Semana_3/Infografia_ecosistema_hadoop_Equipo_22.pdf) | [Carpeta](/Semana_3) | [Download PDF](/Semana_3)
+    - [3.2 Fase 2. Diccionario de datos y esquemas de bases de datos](/Semana_3) |
