@@ -21,6 +21,7 @@ Eduardo Gabriel Arévalo Aguilar - A01793897 </br>
 - Semana 4:
     - [4.2 Infografía del ecosistema Hadoop](/Semana_4/Infografia_ecosistema_hadoop_Equipo_22.pdf) | [Carpeta](/Semana_4) | [Download PDF](https://github.com/PosgradoMNA/BigData_Equipo_22-Trim_ene_2023/raw/main/Semana_4/Infografia_ecosistema_hadoop_Equipo_22.pdf)
     - [4.3 Fase 3a. Preprocesamiento de datos, integración de datos](/Semana_4/4.3_preprocesamiento_e_integracion_de_datos/ETLs_preprocesamiento_Equipo_22.pdf) | [Carpeta](/Semana_4) | [Download PDF](https://github.com/PosgradoMNA/BigData_Equipo_22-Trim_ene_2023/raw/main/Semana_4/4.3_preprocesamiento_e_integracion_de_datos/ETLs_preprocesamiento_Equipo_22.pdf) | [Download All Files .RAR (sin Knime)](https://github.com/PosgradoMNA/BigData_Equipo_22-Trim_ene_2023/raw/main/Semana_4/4.3_preprocesamiento_e_integracion_de_datos/4.3_preprocesamiento_e_integracion_de_datos.rar) | [Imagen ETL .png](/Semana_4/4.3_preprocesamiento_e_integracion_de_datos/ETL_global.png) | [Imagen ETL .svg](/Semana_4/4.3_preprocesamiento_e_integracion_de_datos/ETL_global.svg) | [Downdload Archivo Knime](https://drive.google.com/file/d/1yVhONflPjx-eL20v3rMbtVN6Yae0k0ch/view?usp=share_link)
-- Semana 5: [Download All Files .RAR]()
-    - [5.3 Fase 3b. Ingeniería de datos: enriquecer, agregar, generar features](/Semana_5/Ingenieria_de_Features_equipo_22.pdf) | [Carpeta](/Semana_5) | [Download PDF](https://github.com/PosgradoMNA/BigData_Equipo_22-Trim_ene_2023/raw/main/Semana_5/Ingenieria_de_Features_equipo_22.pdf)
-    - [Anexos: Archivos e imagenes adicionales en Knime](/Semana_5) | [Download All Files .RAR]()
+- Semana 5: [5.3 Fase 3b. Ingeniería de datos: enriquecer, agregar, generar features](/Semana_5/Ingenieria_de_Features_equipo_22.pdf) | [Carpeta](/Semana_5) | [Download PDF](https://github.com/PosgradoMNA/BigData_Equipo_22-Trim_ene_2023/raw/main/Semana_5/Ingenieria_de_Features_equipo_22.pdf) | [Download All Files .RAR](https://github.com/PosgradoMNA/BigData_Equipo_22-Trim_ene_2023/raw/main/Semana_5/nuevas_caracter%C3%ADsticas.rar)
+- Semana 6:
+- Semana 7:
+- Semana 8:
